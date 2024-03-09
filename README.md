@@ -1,1 +1,1 @@
-Small stuff written in c++.
+• Small stuff written in c++.
